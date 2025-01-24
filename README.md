@@ -27,8 +27,8 @@ A Python-based project to identify colors from images or user input. This applic
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/color-identification.git
-   cd color-identification
+   git clone https://github.com/Rahulagarwal086/color-identification-python-project.git
+   cd color-identification-python-project
    ```
 
 2. **Install dependencies**:
